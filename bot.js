@@ -2969,7 +2969,7 @@ client.on("guildMemberAdd", member => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' !!help ','Malicious™ | Server ' ];
+    var setGame = [' !!help ','NASA Community | Server ' ];
     var i = -1;
     var j = 0;
     setInterval(function (){
